@@ -1,0 +1,42 @@
+*,
+*::before,
+*::after {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.heading {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4rem;
+}
+.subHeading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.section1 {
+    padding: 2rem;
+    background-color: #263238;
+    color: #fefefe;
+}
+.section2 {
+    padding: 2rem;
+    background-color: #1563C0;
+    color: #fefefe;
+}
+.section3 {
+    padding: 2rem;
+    background-color: #42a5f5;
+    color: #fefefe;
+}
+.margLeft {
+    margin-left: 2rem;
+}
+.grayBGTimeline {
+    background-color: #607D8B;
+    width: fit-content;
+}
+li {
+    padding: 1rem 0;
+}
